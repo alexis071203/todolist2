@@ -1,0 +1,32 @@
+#title {
+  text-align: center;
+
+}
+h1{
+  color: #F5B7B1;
+  margin-left: 50px;
+}
+body{
+  background-color: #D6EAF8;
+  margin-left: 250px;
+  font-family: 'Indie Flower', cursive;
+}
+h2{
+  color: #17202A;
+}
+
+.timer{
+  text-align: center;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  border: 3px solid black;
+  text-align: center;
+  margin-right: 200px;
+
+}
+.to-do-card {
+  text-align: center;
+  margin: 75px;
+}
